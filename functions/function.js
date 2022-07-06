@@ -2,7 +2,7 @@ var x = (2 * 3) + 5;
 var y = 3 * 4;
 
 //function expression
-var result = myFunction(2, 3);
+var result = myFunction(2, 3)
 console.log(result);
 
 // in-built function

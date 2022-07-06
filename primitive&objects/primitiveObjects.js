@@ -1,7 +1,7 @@
 var number = 10; // Number
-var text = "I am a String"; //String
+var text = "I am a engineer"; //String
 var cars = ["Merc", "BMW", "Volvo"]; //Array
-var x = { firstName: "John", lastName: "Doe" }; //Object
+var x = { firstName: "krishna", lastName: "moorthy" }; //Object
 var condition = true;//boolian
 
 console.log(number, typeof number);
